@@ -2,6 +2,10 @@
 name = "fuzzy_file_helper"
 version = "0.1.0"
 authors = ["Max Jacobson <max@hardscrabble.net>"]
+description = "Filters out stdin input with respect to .agignore"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/maxjacobson/fuzzy_file_helper"
 
 [dependencies]
 regex = "0.1"
